@@ -1,0 +1,42 @@
+{
+    "name": "Ehouarn Duriaux",
+    "description": "Experienced backend developer and frontend developer with a passion for building scalable and efficient systems",
+    "image": "https://avatars.githubusercontent.com/u/142376542?v=4",
+    "about": [
+        {
+            "title": "Backend Development",
+            "description": "I have extensive experience in building robust and scalable backend systems using technologies like Node.js, Python, and Go. I'm proficient in designing and implementing RESTful APIs, managing databases, and optimizing application performance.",
+            "skills": [
+                "Node.js",
+                "Python",
+                "Go",
+                "SQL and NoSQL databases",
+                "RESTful API design",
+                "Containerization and deployment"
+            ]
+        },
+        {
+            "title": "Frontend Developer",
+            "description": "I have experience in building responsive and user-friendly websites using HTML, CSS, and JavaScript. I have also worked with modern frontend frameworks like React and Angular."
+        }
+    ],
+    "projects": [
+        {
+            "title": "Project 1",
+            "description": "A scalable and efficient backend system for a e-commerce platform, built using Node.js, MongoDB, and Redis."
+        },
+        {
+            "title": "Project 2",
+            "description": "A microservices-based architecture for a real-time analytics platform, utilizing Go, Kafka, and Elasticsearch."
+        },
+        {
+            "title": "Project 3",
+            "description": "A high-performance API gateway built with Python and Flask, serving as the entry point for a complex distributed system."
+        }
+    ],
+    "contact": {
+        "text": "Feel free to reach out if you have any questions or would like to discuss a potential project.",
+        "email": "contact@duriaux.ch",
+        "phone": null
+    }
+}
