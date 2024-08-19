@@ -84,20 +84,20 @@ export default function Main({ data }) {
 								)}
 							</div>
 						</div>
-						<form className="flex gap-8 flex-row">
-							<div>
+						<form className="space-y-4">
+							<div className="space-y-2">
 								<label htmlFor="name" className="block text-sm font-medium">
 									Name
 								</label>
 								<Input id="name" name="name" type="text" required />
 							</div>
-							<div>
+							<div className="space-y-2">
 								<label htmlFor="email" className="block text-sm font-medium">
 									Email
 								</label>
 								<Input id="email" name="email" type="email" required />
 							</div>
-							<div>
+							<div className="space-y-2">
 								<label htmlFor="message" className="block text-sm font-medium">
 									Message
 								</label>
