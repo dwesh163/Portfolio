@@ -1,6 +1,7 @@
 import Link from 'next/link';
+import { Profile } from '@/types/data';
 
-export default function Projects({ data }) {
+export default function Projects({ data }: { data: Profile }) {
 	return (
 		<div className="flex min-h-[100dvh] flex-col bg-background text-foreground">
 			<header className="container mx-auto px-4 py-8 sm:px-6 lg:px-8">

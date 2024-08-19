@@ -2,8 +2,9 @@ import Link from 'next/link';
 import { Input } from '@/components/ui/input';
 import { Textarea } from '@/components/ui/textarea';
 import { Button } from '@/components/ui/button';
+import { Profile } from '@/types/data';
 
-export default function Main({ data }) {
+export default function Main({ data }: { data: Profile }) {
 	return (
 		<div className="flex min-h-[100dvh] flex-col bg-background text-foreground">
 			<header className="container mx-auto px-4 py-8 sm:px-6 lg:px-8">
