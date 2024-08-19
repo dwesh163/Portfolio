@@ -4,7 +4,7 @@
     "image": "https://avatars.githubusercontent.com/u/142376542?v=4",
     "about": [
         {
-            "title": "Backend Development",
+            "title": "Full Stack Development",
             "description": "I have extensive experience in building robust and scalable backend systems using technologies like Node.js, Python, and Go. I'm proficient in designing and implementing RESTful APIs, managing databases, and optimizing application performance.",
             "skills": [
                 "Node.js",
@@ -14,10 +14,6 @@
                 "RESTful API design",
                 "Containerization and deployment"
             ]
-        },
-        {
-            "title": "Frontend Developer",
-            "description": "I have experience in building responsive and user-friendly websites using HTML, CSS, and JavaScript. I have also worked with modern frontend frameworks like React and Angular."
         }
     ],
     "projects": [
